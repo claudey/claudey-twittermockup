@@ -1,0 +1,52 @@
+body {
+		background-image: url('twitter-bg.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		margin: 0;
+		font-family: Arial;
+		background-color: #C0DEED;
+		}
+		
+#menubar {
+		background-color: black;
+		height: 50px;
+		width: 100%;
+		margin: 0px;
+		padding: 0px;
+		}
+
+#main {
+		width: 90%;
+		margin: auto;
+		background-color: transparent;
+		}
+
+#leftbar{
+		float: left;
+		width: 30%;
+		}
+
+#block{
+		border-radius: 10px;
+		background-color: white;
+		margin: 10px;
+		padding: 5px;
+		}		
+		
+#block a {
+		text-decoration: underline;
+		}
+		
+#feed {
+		float: right;
+		background-color: white;
+		border-radius: 10px;
+		width: 68%;
+		display: block;
+		margin: 10px 0 0 0;
+		}
+
+#feed div{
+		padding: 5px;
+		border-bottom-style: 1px solid #F7F9F8;
+		}
